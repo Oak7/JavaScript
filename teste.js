@@ -4,7 +4,7 @@ function soma(a,b){
 }
 
 console.log(soma(30,5));
-console.log("Hello world!")
+console.log("Segunda função ======================================= ")
 
 
 function returnPares(array){
@@ -16,7 +16,7 @@ function returnPares(array){
     }
     console.log('Pares: ',parNums);
 }
-let array = [1,2,4,5,7,8,200]
+let array = [1,2,4,5,7,8,200, 501]
 
 returnPares(array);
 
