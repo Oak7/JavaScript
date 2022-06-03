@@ -16,7 +16,7 @@ function returnPares(array){
     }
     console.log('Pares: ',parNums);
 }
-let array = [1,2,4,5,7,8,200, 501]
+let array = [1,2,4,5,7,8,200,501,777]
 
 returnPares(array);
 
@@ -29,6 +29,6 @@ function returnImpares(array2){
     }
     console.log('Ímpares: ',imparNums);
 }
-let array2 = [1,2,4,5,7,8,200,501]
+let array2 = [1,2,4,5,7,8,200,501,777]
 
 returnImpares(array2);
