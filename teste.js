@@ -4,7 +4,7 @@ function soma(a,b){
 }
 
 console.log(soma(30,5));
-console.log("Hello world!")
+console.log("")
 
 
 function returnPares(array){
