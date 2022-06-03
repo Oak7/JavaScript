@@ -4,7 +4,7 @@ function soma(a,b){
 }
 
 console.log(soma(30,5));
-console.log("Segunda função =================here====================== ")
+console.log("========================================== ")
 
 
 function returnPares(array){
@@ -29,6 +29,6 @@ function returnImpares(array2){
     }
     console.log('Ímpares: ',imparNums);
 }
-let array2 = [1,2,4,5,7,8,200]
+let array2 = [1,2,4,5,7,8,200,501]
 
 returnImpares(array2);
